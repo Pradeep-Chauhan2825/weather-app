@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dataformat": "^1.0.0",
+    "react-feather": "^2.0.10"
+  }
+}
